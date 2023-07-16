@@ -1,0 +1,3 @@
+Se debe acceder como administrador
+Administrador
+123456
